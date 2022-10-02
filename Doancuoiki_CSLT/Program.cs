@@ -20,7 +20,7 @@ namespace Cocaro
             Console.WriteLine("Welcome to CARO chess");
             Console.ResetColor();
             Thread.Sleep(1500);
-            Console.WriteLine($"\nHai cach dieu khien");
+            Console.WriteLine($"\nHuong dan choi: Hai cach dieu khien");
             Thread.Sleep(1000);
             Console.WriteLine("Cach 1: W_(len) A_(trai) S_(xuong) D_(phai) va Spacebar_(danh)");
             Console.WriteLine("Cach 2: Cac phim Len - Xuong - Trai - Phai va Enter_(danh) trong ban phim");
